@@ -15,7 +15,7 @@ function App() {
           <a href="https://twitter.com/Syknapse">@Syknapse</a> for a series of
           articles on{" "}
           <a href="https://cult.honeypot.io/contributors/syk-houdeib">
-            .cult by Honeypot
+            .cult by Azar
           </a>
         </p>
         <p>
